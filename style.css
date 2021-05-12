@@ -1,0 +1,17 @@
+
+#grid-container{
+    display: flex;
+    justify-content: center;
+   margin-top: 10%;
+}
+.bg-red{
+    background-color: crimson
+}
+/* :root {
+    --row: 6.25%;
+}
+*/
+.cell{
+  height: 20px;   
+  width: 20px;
+} 
